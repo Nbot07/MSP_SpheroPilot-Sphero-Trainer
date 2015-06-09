@@ -1,0 +1,19 @@
+{
+  "name": "sphero-trainer",
+  "version": "1.0.0",
+  "description": "Sphero Trainer adds a new dimension to a host of recreational activities. It uses the ball's sensors to provide feedback about the ball’s motion through space. It will enable people to practice a sequence of motions and provide statistical and visual feedback on the person’s performance. This can be used to help novice athletes develop their skills in activities ranging from Track and Field to Lacrosse. One great application for this is learning simple martial arts techniques. In particular, it may aid in developing accurate forms. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nbot07/MSP_SpheroPilot-Sphero-Trainer.git"
+  },
+  "author": "Nse Obot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nbot07/MSP_SpheroPilot-Sphero-Trainer/issues"
+  },
+  "homepage": "https://github.com/Nbot07/MSP_SpheroPilot-Sphero-Trainer#readme"
+}
