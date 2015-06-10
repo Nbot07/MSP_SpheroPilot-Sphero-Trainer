@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nbot07/MSP_SpheroPilot-Sphero-Trainer/issues"
   },
-  "homepage": "https://github.com/Nbot07/MSP_SpheroPilot-Sphero-Trainer#readme"
+  "homepage": "https://github.com/Nbot07/MSP_SpheroPilot-Sphero-Trainer#readme",
+  "dependencies": {
+    "sphero": "^0.3.0"
+  }
 }
