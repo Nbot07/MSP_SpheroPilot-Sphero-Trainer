@@ -11,9 +11,10 @@ writeStream.write(header+row1+row2);
 
 writeStream.close();
 
-fs.readFile('file.xls', 'utf8', function (err,data) {
+fs.readFile('PickUP.xls', 'utf8', function (err,data) {
   if (err) {
     return console.log(err);
   }
   console.log(data);
+  console.log(data.split('\n')[2].split('\t')[2])
 });

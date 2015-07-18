@@ -8,7 +8,7 @@ var sphero = require("../");
 // make sure you install this first - `npm install keypress`
 var keypress = require("keypress");
 
-var orb = sphero("COM5");
+var orb = sphero("COM4");
 
 orb.connect(listen);
 

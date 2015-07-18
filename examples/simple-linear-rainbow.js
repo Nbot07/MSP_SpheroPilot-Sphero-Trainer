@@ -2,7 +2,7 @@
 "use strict";
 
 var sphero = require("../");
-var orb = sphero("COM5");
+var orb = sphero("COM4");
 
 orb.connect(function() {//800 ismax sample rate
   orb.streamOdometer(50,false);
